@@ -1,0 +1,6 @@
+.navBar{
+    display: flex;
+    margin: 2px;
+    padding: 0;
+    border: solid black 3px;
+}
